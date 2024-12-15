@@ -42,8 +42,9 @@ A versão para Linux estará disponível em breve. Fique atento às atualizaçõ
 O lançador está em **versão de desenvolvimento** e pode conter alterações e melhorias ao longo do tempo. Caso encontre algum problema, fique à vontade para abrir uma [Issue](https://github.com/leanball/LotSGame/issues) ou contribuir.
 
 ---
-
 ## 📢 Contato
 
-Para dúvidas ou sugestões, entre em contato pelo nosso fórum ou abra uma Issue neste repositório.
+Para dúvidas, sugestões ou suporte, você pode acessar nosso canal oficial no Discord:  
+[**LotSGame - Suporte e Testes**](https://discord.gg/Uh4rMkes)
 
+Caso prefira, você também pode abrir uma **Issue** neste repositório para reportar problemas ou sugerir melhorias.
