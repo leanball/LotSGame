@@ -48,3 +48,10 @@ Para dúvidas, sugestões ou suporte, você pode acessar nosso canal oficial no 
 [**LotSGame - Suporte e Testes**](https://discord.gg/Uh4rMkes)
 
 Caso prefira, você também pode abrir uma **Issue** neste repositório para reportar problemas ou sugerir melhorias.
+
+### ⚖️ Aceitação da Licença
+
+Este software está licenciado sob os termos descritos no arquivo [LICENSE](./LICENSE).  
+
+Ao baixar, instalar ou utilizar este software, você declara que leu, entendeu e concorda com os termos da [Licença](./LICENSE).  
+Caso não concorde com os termos, não prossiga com o download ou uso do software.
