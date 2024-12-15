@@ -7,11 +7,17 @@ Este repositório contém o instalador do lançador em desenvolvimento para o jo
 ### **Windows**
 Os testadores podem baixar o instalador diretamente pelo link abaixo:  
 [**LotSInstall.msi**](https://github.com/leanball/LotSGame/raw/refs/heads/main/LotSInstall.msi)  
-## Importante: SmartScreen do Windows
 
-Se o Windows exibir um aviso de "Fornecedor desconhecido":
-1. Clique em **"Mais informações"**.
-2. Selecione **"Executar assim mesmo"**.
+## Importante: SmartScreen do Windows  
+🛡️ **Aviso de Segurança**  
+O instalador é oficial, mas o **Windows SmartScreen** pode exibir um aviso devido à ausência de assinatura digital. Isso é comum em software em desenvolvimento.  
+Para prosseguir, clique em **"Mais informações"** e depois em **"Executar assim mesmo"**.  
+
+Assim que o site oficial do jogo for lançado, criaremos os certificados digitais necessários para assinar o instalador. Esse aviso **não será exibido** futuramente.  
+
+Se o Windows exibir um aviso de "Fornecedor desconhecido":  
+1. Clique em **"Mais informações"**.  
+2. Selecione **"Executar assim mesmo"**. 
 
 Após baixar o instalador:  
 1. Escolha a pasta onde o **client do jogo** será instalado.  
