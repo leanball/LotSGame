@@ -49,3 +49,16 @@ For questions, suggestions, or support, you can access our official Discord chan
 [**LotSGame - Support and Testing**](https://discord.gg/Uh4rMkes)
 
 Alternatively, you can also open an **Issue** in this repository to report problems or suggest improvements.
+
+### ⚖️ License Agreement
+
+This software is licensed under the terms described in the [LICENSE](./LICENSE) file.  
+
+By downloading, installing, or using this software, you acknowledge that you have read, understood, and agree to the terms of the [LICENSE](./LICENSE).  
+If you do not agree with the terms, do not proceed with downloading or using the software.
+
+
+
+
+
+
