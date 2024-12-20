@@ -33,7 +33,8 @@ For Android devices, the launcher is available for testers via Google Play. Use 
 ---
 
 ### **Linux**
-The Linux version will be available soon. Stay tuned for updates in this repository.
+The Linux version is available here [**https://github.com/leanball/LotSGameLinux**](https://github.com/leanball/LotSGameLinux)
+.
 
 ---
 

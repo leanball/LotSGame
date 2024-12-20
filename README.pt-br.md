@@ -33,8 +33,7 @@ Para dispositivos Android, o lançador está disponível para testadores atravé
 ---
 
 ### **Linux**
-A versão para Linux estará disponível em breve. Fique atento às atualizações deste repositório.
-
+A versão para Linux está disponível aqui [**https://github.com/leanball/LotSGameLinux**](https://github.com/leanball/LotSGameLinux).
 ---
 
 ## 🚀 Sobre o Projeto
