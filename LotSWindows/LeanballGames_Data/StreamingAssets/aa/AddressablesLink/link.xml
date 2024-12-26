@@ -36,6 +36,7 @@
     <type fullname="LeanBallGames.Core.SaveSystem.SaveManagerSO" preserve="all" />
     <type fullname="LeanBallGames.Core.SceneManagement.FadeController" preserve="all" />
     <type fullname="LeanBallGames.Core.SceneManagement.GameplaySO" preserve="all" />
+    <type fullname="LeanBallGames.Core.SceneManagement.GenericFade" preserve="all" />
     <type fullname="LeanBallGames.Core.SceneManagement.InitializationLoader" preserve="all" />
     <type fullname="LeanBallGames.Core.SceneManagement.MenuSO" preserve="all" />
     <type fullname="LeanBallGames.Core.SceneManagement.SceneLoader" preserve="all" />
@@ -50,6 +51,8 @@
     <type fullname="LeanBallGames.UI.Themes.ButtonThemeApplier" preserve="all" />
     <type fullname="LeanBallGames.UI.Themes.ImageProfileSO" preserve="all" />
     <type fullname="LeanBallGames.UI.Themes.ImageThemeApplier" preserve="all" />
+    <type fullname="LeanBallGames.UI.Themes.PrefabProfileSO" preserve="all" />
+    <type fullname="LeanBallGames.UI.Themes.PrefabThemeApplier" preserve="all" />
     <type fullname="LeanBallGames.UI.Themes.RuntimeThemeManager" preserve="all" />
     <type fullname="LeanBallGames.UI.Themes.ThemeCatalogSO" preserve="all" />
     <type fullname="LeanBallGames.UI.Themes.TMPProfileSO" preserve="all" />
